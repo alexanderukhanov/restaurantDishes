@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/restaurantDishes/static/css/main.c57cfdb4.chunk.css",
+    "main.js": "/restaurantDishes/static/js/main.af376013.chunk.js",
+    "main.js.map": "/restaurantDishes/static/js/main.af376013.chunk.js.map",
+    "runtime-main.js": "/restaurantDishes/static/js/runtime-main.73120800.js",
+    "runtime-main.js.map": "/restaurantDishes/static/js/runtime-main.73120800.js.map",
+    "static/js/2.5c2d54ca.chunk.js": "/restaurantDishes/static/js/2.5c2d54ca.chunk.js",
+    "static/js/2.5c2d54ca.chunk.js.map": "/restaurantDishes/static/js/2.5c2d54ca.chunk.js.map",
+    "index.html": "/restaurantDishes/index.html",
+    "static/css/main.c57cfdb4.chunk.css.map": "/restaurantDishes/static/css/main.c57cfdb4.chunk.css.map",
+    "static/js/2.5c2d54ca.chunk.js.LICENSE.txt": "/restaurantDishes/static/js/2.5c2d54ca.chunk.js.LICENSE.txt",
+    "static/media/bin.cfd8531b.png": "/restaurantDishes/static/media/bin.cfd8531b.png",
+    "static/media/district6.43f97ff9.jpg": "/restaurantDishes/static/media/district6.43f97ff9.jpg",
+    "static/media/sun-sun-warung.4ecd0c51.jpg": "/restaurantDishes/static/media/sun-sun-warung.4ecd0c51.jpg",
+    "static/media/verjus.3ccf5dd6.jpg": "/restaurantDishes/static/media/verjus.3ccf5dd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73120800.js",
+    "static/js/2.5c2d54ca.chunk.js",
+    "static/css/main.c57cfdb4.chunk.css",
+    "static/js/main.af376013.chunk.js"
+  ]
+}
